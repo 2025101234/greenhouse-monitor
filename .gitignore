@@ -1,0 +1,17 @@
+﻿# Build output
+output/
+*.o
+*.d
+*.elf
+*.bin
+*.map
+*.img
+
+# SDK toolchain / environment (large, re-downloadable)
+tools/env/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
